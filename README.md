@@ -1,4 +1,4 @@
-## Hi there! I'm Chris Schuhmacher👋
+## Chris Schuhmacher is ready for take-off! :rocket:👋
 
 [![LinkedIn](https://img.shields.io/badge/chrisschuhmacher%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisschuhmacher/)](https://www.linkedin.com/in/chrisschuhmacher/)
 [![GitHub](https://img.shields.io/badge/cschucode%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/cschucode)](https://github.com/cschucode)
