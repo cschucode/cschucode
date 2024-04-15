@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/chris.r.schuhmacher%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:chris.r.schuhmacher@gmail.com)](mailto:chris.r.schuhmacher@gmail.com)
 [![Twitter](https://img.shields.io/badge/nukeSchuhmacher%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nukeSchuhmacher/)](https://twitter.com/nukeSchuhmacher/)
 
-- :office: Software Engineering Intern at [Checkr](https://checkr.com/)
-- :round_pushpin: Based in Lafayette, CA
+- :office: Software Engineer II at [Checkr](https://checkr.com/)
+- :round_pushpin: Based in San Anselmo, CA
 - :smile: Pronouns: he/him/his
 
 ### Languages & Tools
